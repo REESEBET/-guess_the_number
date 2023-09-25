@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0599fbc2-0933-44ea-899f-a1e2f906d3fa": {
+      "ProjectGuid": "0599fbc2-0933-44ea-899f-a1e2f906d3fa",
+      "DisplayName": "угадай чилсо от 1 до 100",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
